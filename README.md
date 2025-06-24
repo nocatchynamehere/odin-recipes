@@ -2,52 +2,55 @@
 Overview
 This is a beginner-level HTML project built as part of the Foundations curriculum from The Odin Project. The goal is to create a simple, multi-page recipe website using only basic HTML. This project is an early step toward understanding how to structure and build functional websites from scratch.
 
-Project Goals
-Build and structure a multi-page website using only HTML
+# Project Goals
+## Build and structure a multi-page website using only HTML
 
-Practice using:
+## Practice using:
 
-Headings, paragraphs, lists, and images
+- Headings, paragraphs, lists, and images
 
-Anchor tags and relative links for internal navigation
+- Anchor tags and relative links for internal navigation
 
-Proper HTML document structure (<html>, <head>, <body>)
+- Proper HTML document structure (<html>, <head>, <body>)
 
-Descriptive alt text for accessibility
+- Descriptive alt text for accessibility
 
-Responsible image sourcing with citations
+- Responsible image sourcing with citations
 
-Git and GitHub for version control and project management
+- Git and GitHub for version control and project management
 
-Features
-Home page with links to individual recipe pages
+## Features
 
-Multiple recipes, each on its own HTML page
+- Home page with links to individual recipe pages
 
-Internal navigation using relative links
+- Multiple recipes, each on its own HTML page
 
-Images with descriptive alt text
+- Internal navigation using relative links
 
-Proper citation for all externally sourced images
+- Images with descriptive alt text
 
-Git used for version control; project hosted on GitHub
+- Proper citation for all externally sourced images
 
-Skills Gained
-Through this project, I’ve gained hands-on experience with:
+- Git used for version control; project hosted on GitHub
 
-Writing semantic, accessible HTML
+## Skills Gained
 
-Structuring multi-page sites using internal links
+- Through this project, I’ve gained hands-on experience with:
 
-Embedding images with ethical sourcing and accessibility in mind
+- Writing semantic, accessible HTML
 
-Using Git for version control and pushing changes to GitHub
+- Structuring multi-page sites using internal links
 
-What's Next?
-This site will serve as a base for future modules in The Odin Project, where I will:
+- Embedding images with ethical sourcing and accessibility in mind
 
-Add styling with CSS
+- Using Git for version control and pushing changes to GitHub
 
-Introduce interactivity with JavaScript
+## What's Next?
 
-Continue applying best practices in accessibility, responsiveness, and clean code structure
+- This site will serve as a base for future modules in The Odin Project, where I will:
+
+- Add styling with CSS
+
+- Introduce interactivity with JavaScript
+
+- Continue applying best practices in accessibility, responsiveness, and clean code structure
