@@ -1,11 +1,11 @@
-🍲 Recipe Website — The Odin Project
-Overview
+# 🍲 Recipe Website — The Odin Project
+## Overview
 This is a beginner-level HTML project built as part of the Foundations curriculum from The Odin Project. The goal is to create a simple, multi-page recipe website using only basic HTML. This project is an early step toward understanding how to structure and build functional websites from scratch.
 
-# Project Goals
-## Build and structure a multi-page website using only HTML
+## Project Goals
+### Build and structure a multi-page website using only HTML
 
-## Practice using:
+### Practice using:
 
 - Headings, paragraphs, lists, and images
 
@@ -19,7 +19,7 @@ This is a beginner-level HTML project built as part of the Foundations curriculu
 
 - Git and GitHub for version control and project management
 
-## Features
+### Features
 
 - Home page with links to individual recipe pages
 
@@ -33,7 +33,7 @@ This is a beginner-level HTML project built as part of the Foundations curriculu
 
 - Git used for version control; project hosted on GitHub
 
-## Skills Gained
+### Skills Gained
 
 - Through this project, I’ve gained hands-on experience with:
 
@@ -45,7 +45,7 @@ This is a beginner-level HTML project built as part of the Foundations curriculu
 
 - Using Git for version control and pushing changes to GitHub
 
-## What's Next?
+### What's Next?
 
 - This site will serve as a base for future modules in The Odin Project, where I will:
 
